@@ -130,4 +130,8 @@
     .contact-wrapper {
         grid-template-columns: 1fr;
     }
+
+    .contact-section {
+        padding: 3rem 0;
+    }
 }
